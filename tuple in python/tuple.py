@@ -32,3 +32,5 @@ tea_types = ("black" , "green" , "ooling")
 # print(black)
 
 
+
+print(type(tea_types)) #<class 'tuple'>
